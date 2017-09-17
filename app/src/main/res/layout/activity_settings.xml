@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2196f3"
+    tools:context="com.example.pedrogarcia.encrypt0.Settings">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="401dp"
+        android:layout_height="184dp"
+        android:text="Encrypt0 developed during Hello World Hackathon at Purdue Univeristy"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="28dp"
+        android:textColor="#ffffff"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="401dp"
+        android:layout_height="184dp"
+        android:text="Murilo Silva\nKartik Mitthal\nPedro Garcia\nShiv Paul"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="141dp"
+        android:textColor="#ffffff"
+        android:textSize="25sp" />
+
+</android.support.constraint.ConstraintLayout>
